@@ -1,0 +1,7 @@
+[user]
+	name = Kristian Tjelta Johansen
+	email = kristianj@dolphinics.com
+[core]
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main
